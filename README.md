@@ -5,9 +5,6 @@ SAF(Scan Angle Filter), a CloudCompare plugin, can filter the scanning angle in 
 
 CloudComapre is an open source 3D point cloud and grid processing software that can handle all kinds of point cloud format data.
 
-[Github . CloudCompare](https://github.com/CloudCompare/CloudCompare)
-
-
 ## SAF(Scan Angle Filter)
 
 SAF(Scan Angle Filter) is a simple CloudCompare plugin that can filter a given range of scanning angles.
