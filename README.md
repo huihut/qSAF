@@ -21,9 +21,9 @@ It is only suitable for LAS format point cloud file.
 
 CloudCompare plugins and qSAF tutorial
 
-1. [CloudCompare插件编写一（插件框架）](http://huihut.com/2017/04/27/CloudCompareSAFPlugin_1_Framework/)
-2. [CloudCompare插件编写二（数据结构）](http://huihut.com/2017/04/27/CloudCompareSAFPlugin_2_DataStructure/)
-3. [CloudCompare插件编写三（算法实现）](http://huihut.com/2017/04/27/CloudCompareSAFPlugin_3_Algorithm/)
+1. [CloudCompare插件编写一（插件框架）](http://blog.huihut.com/2017/04/27/CloudCompareSAFPlugin_1_Framework/)
+2. [CloudCompare插件编写二（数据结构）](http://blog.huihut.com/2017/04/27/CloudCompareSAFPlugin_2_DataStructure/)
+3. [CloudCompare插件编写三（算法实现）](https://blog.huihut.com/2017/04/27/CloudCompareSAFPlugin_3_Algorithm/)
 
 ## Thanks
 
