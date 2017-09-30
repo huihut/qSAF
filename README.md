@@ -16,8 +16,7 @@ It is only suitable for LAS format point cloud file.
 
 1. Install [CMake](https://cmake.org/) (3.0 or newer)
 
-2. Install [Qt](http://www.qt.io/)  
-  (CloudCompare 2.7 requires Qt version 5.5 or newer)
+2. Install [Qt](http://www.qt.io/) (CloudCompare 2.7 requires Qt version 5.5 or newer)
 
 3. Make sure you have a C++11 compliant compiler (gcc 4.7+ / clang / Visual 2013 and newer)
 
