@@ -40,9 +40,9 @@ It is only suitable for LAS format point cloud file.
 
 ## Screenshot
 
-![SAFDlg](http://ojlsgreog.bkt.clouddn.com/SAFDlg.jpg)
+![SAFDlg](images/SAFDlg.jpg)
 
-<img src="http://ojlsgreog.bkt.clouddn.com/SAFDemo.jpg" width = "99%" />
+![SAFDemo](images/SAFDemo.jpg)
 
 ## Tutorial
 
