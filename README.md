@@ -53,4 +53,4 @@ CloudCompare plugins and qSAF tutorial
 
 ## License
 
-[GNU v3.0](https://github.com/huihut/qSAF/blob/master/LICENSE)
+[MIT](https://github.com/huihut/qSAF/blob/master/LICENSE)
